@@ -11,7 +11,7 @@ The scaffolded code often follows best practices and conventions established by 
 ``` Server=<server>;Database=<database>;Uid=<username>;Pwd=<password> ```
 
 2) Packages to install:  
--Microsoft.EntityFrameworkCore.Design
+-Microsoft.EntityFrameworkCore.Design  
 -Pomelo.EntityFrameworkCore.MySql
 
 3) Install & Update dotnet EntityFramework tool to prevent incompatible version:  
