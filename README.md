@@ -14,7 +14,7 @@ The scaffolded code often follows best practices and conventions established by 
 -Microsoft.EntityFrameworkCore.Design  
 -Pomelo.EntityFrameworkCore.MySql
 
-3) Install & Update dotnet EntityFramework tool to prevent incompatible version:  
+3) Install & Update EntityFramework tool to prevent incompatible version:  
 ``` dotnet tool install --global dotnet-ef ```  
 ``` dotnet tool update --global dotnet-ef ```
 
