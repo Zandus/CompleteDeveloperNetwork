@@ -1,5 +1,5 @@
 # Project Overview
-This project implements scaffold technique, which scaffold the database table into model and load related data, call stored procedures and get data from views from MySQL Database for ASP.Net Core web API project.
+This project implements scaffold technique, which scaffold the database table into model and load related data, call stored procedures and get data from views from MySQL Database for ASP.Net Core Web API project.
 
 # Note:
 Scaffolding is commonly used in web development frameworks, such as ASP.NET, Ruby on Rails, Django, and Laravel, to streamline the process of creating CRUD (Create, Read, Update, Delete) operations, controllers, views, database migrations, and other components. It helps developers get started quickly by generating boilerplate code and reducing the manual effort required to set up the initial project structure.
